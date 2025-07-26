@@ -28,3 +28,7 @@ A visually immersive **Philosophy Website** built using **HTML**, **CSS**, and *
    git clone https://github.com/your-username/philosophy-website.git
    cd philosophy-website
    ```
+
+# Philosite
+
+A philosophy website (Blog/info site)
